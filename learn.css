@@ -1,0 +1,117 @@
+body{
+    background-color: black;
+}
+button{
+    color: white;
+    background: none;
+    width: 70px;
+    position: absolute;
+    top: 2;
+    left: -1px;
+    padding: 10px;
+    border: 1px solid white;
+    border-left: 1px solid black;
+    border-radius: 0 30px 30px 0;
+}
+button:hover{
+    color: black;
+    background-color: orange;
+    width: 140px;
+    border: 1px solid black;
+    transition: 1s;
+}
+.css{
+    color: white;
+    background: none;
+    width: 70px;
+    position: absolute;
+    top: 2;
+    left: -1px;
+    padding: 10px;
+    border: 1px solid white;
+    border-left: 1px solid black;
+    border-radius: 0 30px 30px 0;
+}
+.css:hover{
+    color: black;
+    background-color: skyblue;
+    width: 140px;
+    border: 1px solid black;
+    transition: 1s;
+}
+.js{
+    color: white;
+    background: none;
+    width: 70px;
+    position: absolute;
+    top: 2;
+    left: -1px;
+    padding: 10px;
+    border: 1px solid white;
+    border-left: 1px solid black;
+    border-radius: 0 30px 30px 0;
+}
+.js:hover{
+    color: black;
+    background-color: yellow;
+    width: 140px;
+    border: 1px solid black;
+    transition: 1s;
+}
+.php{
+    color: white;
+    background: none;
+    width: 70px;
+    position: absolute;
+    top: 2;
+    left: -1px;
+    padding: 10px;
+    border: 1px solid white;
+    border-left: 1px solid black;
+    border-radius: 0 30px 30px 0;
+}
+.php:hover{
+    color: black;
+    background-color: blue;
+    width: 140px;
+    border: 1px solid black;
+    transition: 1s;
+}
+.sql{
+    color: white;
+    background: none;
+    width: 70px;
+    position: absolute;
+    top: 2;
+    left: -1px;
+    padding: 10px;
+    border: 1px solid white;
+    border-left: 1px solid black;
+    border-radius: 0 30px 30px 0;
+}
+.sql:hover{
+    color: black;
+    background-color: silver;
+    width: 140px;
+    border: 1px solid silver;
+    transition: 1s;
+}
+.perl{
+    color: white;
+    background: none;
+    width: 70px;
+    position: absolute;
+    top: 2;
+    left: -1px;
+    padding: 10px;
+    border: 1px solid white;
+    border-left: 1px solid black;
+    border-radius: 0 30px 30px 0;
+}
+.perl:hover{
+    color: black;
+    background-color: orangered;
+    width: 140px;
+    border: 1px solid black;
+    transition: 1s;
+}
